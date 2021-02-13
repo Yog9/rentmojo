@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import "./user.scss";
 import { Link } from "react-router-dom";
 
+
 const UserItem = ({ user }) => {
   return (
     <tr>
@@ -18,5 +19,5 @@ const UserItem = ({ user }) => {
 };
 
 UserItem.propTypes = {};
-
 export default UserItem;
+
