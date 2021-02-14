@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rentmojo/static/css/main.545d5a8f.chunk.css",
+    "main.js": "/rentmojo/static/js/main.d38647d8.chunk.js",
+    "main.js.map": "/rentmojo/static/js/main.d38647d8.chunk.js.map",
+    "runtime-main.js": "/rentmojo/static/js/runtime-main.367beb61.js",
+    "runtime-main.js.map": "/rentmojo/static/js/runtime-main.367beb61.js.map",
+    "static/js/2.ae96baab.chunk.js": "/rentmojo/static/js/2.ae96baab.chunk.js",
+    "static/js/2.ae96baab.chunk.js.map": "/rentmojo/static/js/2.ae96baab.chunk.js.map",
+    "static/js/3.d5b5de35.chunk.js": "/rentmojo/static/js/3.d5b5de35.chunk.js",
+    "static/js/3.d5b5de35.chunk.js.map": "/rentmojo/static/js/3.d5b5de35.chunk.js.map",
+    "index.html": "/rentmojo/index.html",
+    "static/css/main.545d5a8f.chunk.css.map": "/rentmojo/static/css/main.545d5a8f.chunk.css.map",
+    "static/js/2.ae96baab.chunk.js.LICENSE.txt": "/rentmojo/static/js/2.ae96baab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.367beb61.js",
+    "static/js/2.ae96baab.chunk.js",
+    "static/css/main.545d5a8f.chunk.css",
+    "static/js/main.d38647d8.chunk.js"
+  ]
+}
