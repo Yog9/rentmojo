@@ -12,8 +12,8 @@ function App() {
       <BrowserRouter>
       <Switch>
           <Route path="/" exact component ={User}/>
-          <Route path ="/posts/:user_id" component ={Posts}/>
-          <Route path ="/post/:post_id" component ={PostDetails}/>
+          <Route path ="/:user_id/posts" exact component ={Posts}/>
+          <Route path ="/:user_id/posts/:post_id" exact component ={PostDetails}/>
         </Switch>
       </BrowserRouter>
     </Provider>
